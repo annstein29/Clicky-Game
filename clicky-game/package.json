@@ -16,5 +16,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://kfidrych.github.io/Clicky"
+  "homepage": "https://annstein29.github.io/Clicky-Game"
 }
